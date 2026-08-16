@@ -1,6 +1,6 @@
-# 🐍 Meus Estudos em Python | Da Lógica aos Projetos
+# Meus Estudos em Python
 
-Fala aí! 👋
+Fala aí!
 
 Criei este repositório para centralizar toda a minha evolução prática com **Python**. Depois de ter tido contato com outras linguagens (como Java e C) na faculdade, decidi focar de verdade no Python e dominar a linguagem desde os fundamentos.
 
