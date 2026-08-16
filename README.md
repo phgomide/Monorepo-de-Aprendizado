@@ -21,3 +21,5 @@ Dividi o aprendizado em módulos práticos para facilitar a navegação:
 ├── 3 Estrutura de Dados/        # Listas, tuplas, dicionários e conjuntos (em breve)
 │
 └── 4 OOP/                       # Classes, métodos e POO na prática (em breve)
+│
+└── 5 Desafios/                  # Desafios referentes aos conteúdos que já vi (normalmente propostos por IA ou codewars)
