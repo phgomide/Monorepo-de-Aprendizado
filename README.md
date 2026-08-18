@@ -23,3 +23,5 @@ Dividi o aprendizado em módulos práticos para facilitar a navegação:
 └── 4 OOP/                       # Classes, métodos e POO na prática (em breve)
 │
 └── 5 Desafios/                  # Desafios referentes aos conteúdos que já vi (normalmente propostos por IA ou codewars)
+│
+└── 6 Guanabara/                 # Anotações e exercícios que o professor Guanabara passa no Youtube
