@@ -1,0 +1,10 @@
+msg = input("Digite algo: ")
+
+print("A mensagem digitada foi {}".format(msg))
+print("O tipo da mensagem eh: {}".format(type(msg)))
+print('A mensagem so tem espacos? {}'.format(msg.isspace()))
+print("A mensagem digitada eh numerica? {}".format(msg.isnumeric()))
+print("A mensagem digitada eh alfabetica? {}".format(msg.isalpha()))
+print('A mensagem digitada eh alfanumerica? {}'.format(msg.isalnum()))
+print("A mensagem digitada esta toda em maisuculo? {}".format(msg.isupper()))
+print("A mensagem digitada esta toda em minusculo? {}".format(msg.islower()))
