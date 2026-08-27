@@ -2,7 +2,7 @@
 
 Fala aí!
 
-Criei este repositório para centralizar toda a minha evolução prática com **Python**. Depois de ter tido contato com outras linguagens (como Java e C) na faculdade, decidi focar de verdade no Python e dominar a linguagem desde os fundamentos.
+Criei este repositório para centralizar toda a minha evolução prática com **Python**. Depois de ter tido contato com outras linguagens (como Java e C) no 1° e 2° período da faculdade, decidi focar de verdade no Python e dominar a linguagem desde os fundamentos.
 
 Aqui você vai encontrar desde testes de sintaxe e lógica pura até pequenos sistemas e desafios que desenvolvo para fixar o que estou aprendendo.
 
@@ -25,3 +25,5 @@ Dividi o aprendizado em módulos práticos para facilitar a navegação:
 └── 5 Desafios/                  # Desafios referentes aos conteúdos que já vi (normalmente propostos por IA ou codewars)
 │
 └── 6 Guanabara/                 # Anotações e exercícios que o professor Guanabara passa no Youtube
+│
+└── 7 Luiz Otávio/               # Exercícios e projetos que eu desenvolver pelo curso do professor Luiz Otávio
